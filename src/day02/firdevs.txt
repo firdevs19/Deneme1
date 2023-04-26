@@ -1,0 +1,9 @@
+Merhaba ben Firdevs
+
+Bugun 26.04.2023
+
+Bu dosyayi CMD uzerinden olusturup
+InteliJ uzerinden guncelledim:)...
+
+NoteP
+ad'den de ekleme yaptim. saat=11:29..
